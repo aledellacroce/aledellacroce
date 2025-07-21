@@ -1,4 +1,8 @@
-## Hi there 👋
+# About Me
+
+- I'm an *Astronomer* working on star cluster dynamics 🔭 🎳
+- ... but I am also posting some personal projects 🐜
+- If you are interested in any of my projects, get in touch with me at 📬 alessandrodca@gmail.com
 
 <!--
 **aledellacroce/aledellacroce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
